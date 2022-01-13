@@ -1,0 +1,14 @@
+import calendar
+
+print(calendar.weekheader(3))
+print
+
+print(calendar.firstweekday())
+print()
+
+print(calendar.month(2022, 1))
+
+print(calendar.monthcalendar(2022, 1))
+
+print(calendar.calendar(2022))
+
